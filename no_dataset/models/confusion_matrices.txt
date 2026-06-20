@@ -1,0 +1,64 @@
+dummy_most_frequent
+Validation confusion matrix:
+[[Benign predicted as Benign, Benign predicted as Malicious],
+ [Malicious predicted as Benign, Malicious predicted as Malicious]]
+[[36181     0]
+ [19865     0]]
+
+Test confusion matrix:
+[[Benign predicted as Benign, Benign predicted as Malicious],
+ [Malicious predicted as Benign, Malicious predicted as Malicious]]
+[[18090     0]
+ [ 9933     0]]
+
+logistic_regression
+Validation confusion matrix:
+[[Benign predicted as Benign, Benign predicted as Malicious],
+ [Malicious predicted as Benign, Malicious predicted as Malicious]]
+[[34494  1687]
+ [  366 19499]]
+
+Test confusion matrix:
+[[Benign predicted as Benign, Benign predicted as Malicious],
+ [Malicious predicted as Benign, Malicious predicted as Malicious]]
+[[17211   879]
+ [  195  9738]]
+
+random_forest
+Validation confusion matrix:
+[[Benign predicted as Benign, Benign predicted as Malicious],
+ [Malicious predicted as Benign, Malicious predicted as Malicious]]
+[[36169    12]
+ [   34 19831]]
+
+Test confusion matrix:
+[[Benign predicted as Benign, Benign predicted as Malicious],
+ [Malicious predicted as Benign, Malicious predicted as Malicious]]
+[[18084     6]
+ [   15  9918]]
+
+extra_trees
+Validation confusion matrix:
+[[Benign predicted as Benign, Benign predicted as Malicious],
+ [Malicious predicted as Benign, Malicious predicted as Malicious]]
+[[36156    25]
+ [   33 19832]]
+
+Test confusion matrix:
+[[Benign predicted as Benign, Benign predicted as Malicious],
+ [Malicious predicted as Benign, Malicious predicted as Malicious]]
+[[18079    11]
+ [   20  9913]]
+
+hist_gradient_boosting
+Validation confusion matrix:
+[[Benign predicted as Benign, Benign predicted as Malicious],
+ [Malicious predicted as Benign, Malicious predicted as Malicious]]
+[[36166    15]
+ [    8 19857]]
+
+Test confusion matrix:
+[[Benign predicted as Benign, Benign predicted as Malicious],
+ [Malicious predicted as Benign, Malicious predicted as Malicious]]
+[[18082     8]
+ [    5  9928]]
